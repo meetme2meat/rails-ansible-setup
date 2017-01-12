@@ -1,0 +1,2 @@
+[server]
+x.x.x.x ansible_connection=ssh ansible_user=ubuntu ansible_ssh_private_key_file=public_keys/server.pem
